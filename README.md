@@ -11,4 +11,5 @@ Name       : Clayton Ismal Nagle\cb1 \
 \
 \cb3 StudentID  : 2206021951\cb1 \
 \
-\cb3 Class      : PBP KKI}
+\cb3 Class      : PBP KKI
+\Hobby      : Sleeping}
